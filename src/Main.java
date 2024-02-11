@@ -26,7 +26,7 @@ public class Main {
                 System.out.println("Invalid Pin !!");
             }else{
                 System.out.println("Login Successful :)");
-                atmExecution.menu();
+                atmExecution.menu(acc);
 //                atmExecution.withdraw("100","1904327658");
             }
         }
