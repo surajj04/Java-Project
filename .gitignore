@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java classes
+*.class
+
+# Dependency directories
+target/
+build/
+
+# Generated files
+out/
+build/
+dist/
+
+# IDE backup files
+*~
+
+# User-specific files
+.DS_Store
+*.swp
